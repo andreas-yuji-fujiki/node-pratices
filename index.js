@@ -4,7 +4,7 @@ const app = express();
 
 // hello world route
 app.get('/', (req, res) => {
-    res.write('Hello World!');
+    res.write('Learning node and mySQL');
     res.end()
 });
 
