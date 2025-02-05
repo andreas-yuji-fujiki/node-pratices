@@ -4,7 +4,8 @@
   "description": "Repository for practicing and experimenting with Node.js. Contains small projects and functionality tests, no strings attached.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
