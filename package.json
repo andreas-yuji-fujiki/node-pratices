@@ -13,14 +13,19 @@
   "keywords": [
     "node",
     "pratices",
-    "sql",
     "mysql",
-    "javascript"
+    "javascript",
+    "express",
+    "express-handlebars",
+    "bootstrap"
   ],
   "author": "Andreas Yuji Fujiki",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andreas-yuji-fujiki/node-pratices/issues"
   },
-  "homepage": "https://github.com/andreas-yuji-fujiki/node-pratices#readme"
+  "homepage": "https://github.com/andreas-yuji-fujiki/node-pratices#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
