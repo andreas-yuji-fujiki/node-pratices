@@ -1,0 +1,26 @@
+{
+  "name": "node-pratices",
+  "version": "1.0.0",
+  "description": "Repository for practicing and experimenting with Node.js. Contains small projects and functionality tests, no strings attached.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreas-yuji-fujiki/node-pratices.git"
+  },
+  "keywords": [
+    "node",
+    "pratices",
+    "sql",
+    "mysql",
+    "javascript"
+  ],
+  "author": "Andreas Yuji Fujiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreas-yuji-fujiki/node-pratices/issues"
+  },
+  "homepage": "https://github.com/andreas-yuji-fujiki/node-pratices#readme"
+}
