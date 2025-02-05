@@ -9,4 +9,6 @@ app.get('/', (req, res) => {
 });
 
 // hello world server
-app.listen(8080);
+app.listen(8080, () => {
+    console.log('Server running on: http://localhost:8080')
+});

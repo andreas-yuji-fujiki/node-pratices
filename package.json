@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/andreas-yuji-fujiki/node-pratices#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
